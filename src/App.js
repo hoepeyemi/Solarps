@@ -29,8 +29,8 @@ import { useMemo } from "react";
 
 import Home from "./pages/home";
 import Play from "./pages/play";
-// import { createWeb3Modal, defaultSolanaConfig } from '@web3modal/solana/react'
-// import { solana, solanaTestnet, solanaDevnet } from '@web3modal/solana/chains'
+import { createWeb3Modal, defaultSolanaConfig } from '@web3modal/solana/react'
+import { solana, solanaTestnet, solanaDevnet } from '@web3modal/solana/chains'
 
 function App() {
   // The network can be set to 'devnet', 'testnet', or 'mainnet-beta'.
