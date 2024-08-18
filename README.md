@@ -1,4 +1,4 @@
-Siou is the project of an implementation of the RPS(ROCK, PAPER and SCISSORS) game on solana with walletconnect.
+Solarps is the project of an implementation of the RPS(ROCK, PAPER and SCISSORS) game on solana with walletconnect.
 
 FEATURES:
 
